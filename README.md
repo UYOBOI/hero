@@ -1,2 +1,2 @@
 # hero
-miniwebsite using only html and css
+i created a mini website using html and css only.
